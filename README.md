@@ -3,7 +3,7 @@
 
 
  🙋🏻‍♀️ It's Ezgi 
- 💜 I'm a 2nd year Computer Engineering Student.  ![xx](https://user-images.githubusercontent.com/109277079/220788350-78661b84-a3cb-464f-87f0-507e48220e79.jpg)
+ 💜 I'm a 2nd year Computer Engineering Student.  
 
 
  💅🏻 I’m currently working on Java 
