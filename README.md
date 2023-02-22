@@ -2,7 +2,7 @@
 
 <!--
 
-- 🙋🏻‍♀️ It's Ezgi 
+ - 🙋🏻‍♀️ It's Ezgi 
 - 💜 I'm a 2nd year Computer Engineering Student.
 - 💜 
 - 💜
@@ -16,4 +16,4 @@
  💎 [![LinkedIn] (https://www.linkedin.com/in/ezgikrhnn/)]
 
  
-
+--!>
