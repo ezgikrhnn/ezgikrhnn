@@ -8,9 +8,9 @@
  💅🏻 I’m currently working on Java 
  🍓 I’m currently learning Android Mobile Application Development
 
- 📩 karahanezgi64@gmail.com
- 💎 Linkedin: https://www.linkedin.com/in/ezgikrhnn/
- 📸 [!Instagram](https://www.instagram.com/codewbnezgirl/)
+ 📩 [mail me](karahanezgi64@gmail.com)
+ 💎 [Linkedin](https://www.linkedin.com/in/ezgikrhnn/)
+ 📸 [Instagram](https://www.instagram.com/codewbnezgirl/)
 
  
 
