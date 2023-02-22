@@ -13,7 +13,7 @@
  🍓 I’m currently learning Android Mobile Application Development
 
  📩 karahanezgi64@gmail.com
- 💎 [link]: https://www.linkedin.com/in/ezgikrhnn/
+ 💎 [![LinkedIn] (https://www.linkedin.com/in/ezgikrhnn/)]
 
  
 
