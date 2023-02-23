@@ -30,12 +30,10 @@
  
  
  
+ 
  <img src="https://user-images.githubusercontent.com/109277079/220794812-d1e285be-461c-41d2-983b-a59729b790f4.jpg" width="450" height="540">
 
 
- 💅🏻 I’m currently working on Java 
- 🍓 I’m currently learning Android Mobile Application Development
- 💻 I'm a "software" themed content producer in social media.
  
  
  ## Competencies:
