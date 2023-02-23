@@ -4,7 +4,7 @@
 
  🙋🏻‍♀️ It's Ezgi 
  💜 I'm a 2nd year Computer Engineering Student. 
- ![](![xx](https://user-images.githubusercontent.com/109277079/220791255-aa8aebc0-4fd4-470b-a9e1-7583fdd9fb5e.jpg)![Uploading xx.jpg…]() =45x54)
+ ![](![](https://user-images.githubusercontent.com/109277079/220791255-aa8aebc0-4fd4-470b-a9e1-7583fdd9fb5e.jpg =45x54)
 
 
  💅🏻 I’m currently working on Java 
