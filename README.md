@@ -3,6 +3,10 @@
 
 
  🙋🏻‍♀️ It's Ezgi 
+ 
+ 
+ 
+ 
  💜 I'm a 2nd year Computer Engineering Student. 
  
  
