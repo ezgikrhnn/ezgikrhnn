@@ -22,7 +22,7 @@
  
  
  
- <img src="![20230117_011114](https://user-images.githubusercontent.com/109277079/220794500-f1a7e85e-41a4-4795-83b8-89b9d9087f3b.jpg)" width="225" height="270">
+ <img src="https://user-images.githubusercontent.com/109277079/220794812-d1e285be-461c-41d2-983b-a59729b790f4.jpg" width="225" height="270">
 
 
  💅🏻 I’m currently working on Java 
