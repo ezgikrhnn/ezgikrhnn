@@ -17,6 +17,14 @@
  
  
  💻 I'm a "software" themed content producer in social media.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
  
  
