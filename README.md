@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="![20230117_011114](https://user-images.githubusercontent.com/109277079/222016687-f81a16f2-85fd-4f2a-842d-1cbaa4a92459.jpg)=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="![20230117_011114](![Uploading 20230117_011114.jpg…]())=flat"
     alt="ezgikrhnn" /> 
   </p>
 
