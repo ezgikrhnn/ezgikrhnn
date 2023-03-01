@@ -3,8 +3,8 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src=![20230117_011114](https://user-images.githubusercontent.com/109277079/222018967-282bfb78-7412-4dd3-b54f-d8ed568d1e35.jpg)
-=flat"
+![20230117_011114](https://user-images.githubusercontent.com/109277079/222019096-c41cc81e-10af-4725-8b04-8d01e9d47397.jpg)
+
     alt="ezgikrhnn" /> 
   </p>
 
