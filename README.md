@@ -7,7 +7,7 @@
 
 <br>
 
-<p><img align="right" src="![20230117_011114](https://user-images.githubusercontent.com/109277079/222019325-8e134654-b5d0-4bc6-9dd9-ae997677d0f8.jpg)" alt="adam-pw" /></p>
+<p><img align="right" src="![20230117_011114](https://user-images.githubusercontent.com/109277079/222019325-8e134654-b5d0-4bc6-9dd9-ae997677d0f8.jpg)" alt="ezgikrhnn" /></p>
 
 
 - 💜 I’m currently learning Android Mobile Development 
