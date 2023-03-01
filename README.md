@@ -1,9 +1,7 @@
  <h1 align="center">Hii 🙋🏻‍♀️, It's Ezgi </h1>
-<h3 align="center"> Computer Engineering Student💅🏻.</h3>
+<h3 align="center"> Computer Engineering Student💅🏻 </h3>
 
 <br>
- 
-  </p>
 
 <br>
 
