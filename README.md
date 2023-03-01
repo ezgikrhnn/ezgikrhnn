@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, It's Ezgi </h1>
+ <h1 align="center">Hii 🙋🏻‍♀️, It's Ezgi </h1>
 <h3 align="center"> Computer Engineering Student💅🏻.</h3>
 
 <br>
@@ -12,11 +12,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Android Mobile Development 
+- 💜 I’m currently learning Android Mobile Development 
 
-- 📫 How to reach me **karahanezgi64@gmail.com**
+- 📩 How to reach me **karahanezgi64@gmail.com**
 
-- ⚡ I'm a "software" themed content producer in social media.
+- 🍭 I'm a "software" themed content producer in social media.
 
 <br>
 
@@ -55,7 +55,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data : </h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgikrhnn&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ezgikrhnn" 
