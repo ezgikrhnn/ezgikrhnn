@@ -6,7 +6,7 @@
 <br>
 
  
- <img align = "right "src="https://user-images.githubusercontent.com/109277079/220794812-d1e285be-461c-41d2-983b-a59729b790f4.jpg" width="450" height="540">
+ <img align = "right" src="https://user-images.githubusercontent.com/109277079/220794812-d1e285be-461c-41d2-983b-a59729b790f4.jpg" width="450" height="540">
 
 <br>
 
