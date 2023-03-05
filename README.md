@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a [Linkedin](href="https://www.linkedin.com/in/ezgikrhnn/" target="blank"><img align="center"
+  <a  (href="https://www.linkedin.com/in/ezgikrhnn/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/ezgikrhnn/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="ezgi karahan" height="30" width="40" /></a>
       
@@ -73,6 +73,10 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [ezgikrhnn](https://github.com/ezgikrhnn)
+
+
+<br>
+<h3 align="left">HERE IS MY CONTENTS</h3>
  
  
  
