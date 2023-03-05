@@ -8,6 +8,12 @@
 <p><img align="right" src="![20230117_011114](https://user-images.githubusercontent.com/109277079/222019325-8e134654-b5d0-4bc6-9dd9-ae997677d0f8.jpg)" alt="ezgikrhnn" /></p>
 
 
+ 
+ <img src="https://user-images.githubusercontent.com/109277079/220794812-d1e285be-461c-41d2-983b-a59729b790f4.jpg" width="450" height="540">
+
+<br>
+
+
 - 💜 I’m currently learning Android Mobile Development 
 
 - 📩 How to reach me **karahanezgi64@gmail.com**
