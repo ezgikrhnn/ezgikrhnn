@@ -23,9 +23,7 @@
 <p align="left">
   <a  href="https://www.linkedin.com/in/ezgikrhnn/">LinkedIn</a>
       
-  <a href="https://www.instagram.com/codewbnezgirl/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/ezgikrhnn/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ezgikrhnn" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/codewbnezgirl/">Instagram</a>
 </p>
 
 <br>
