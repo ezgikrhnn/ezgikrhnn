@@ -11,7 +11,7 @@
 <br>
 
 
-- 💜 I’m currently learning Android Mobile Development 
+- 💜 I’m currently learning Android Mobile Development | java and React
 
 - 📩 How to reach me **karahanezgi64@gmail.com**
 
