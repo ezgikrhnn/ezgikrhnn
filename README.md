@@ -1,12 +1,11 @@
- <h1 align="center">Hii 🙋🏻‍♀️, It's Ezgi </h1>
+<h1 align="center">Hii 🙋🏻‍♀️, It's Ezgi </h1>
 <h3 align="center"> Computer Engineering Student💅🏻 </h3>
 
 <br>
 
 <br>
 
-
-![Uploading Ekran Resmi 2023-12-23 01.03.13.png…]()
+<img width="1330" alt="Ekran Resmi 2023-12-23 01 03 13" src="https://github.com/ezgikrhnn/HavaDurumuApp/assets/109277079/4cf7ddab-54da-45f0-b56f-9e5c8553350d">
 
 
  
