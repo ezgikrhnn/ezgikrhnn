@@ -2,6 +2,9 @@
 <h3 align="center"> Computer Engineering Student💅🏻 </h3>
 
 <br>
+- 💜 I’m currently learning iOS Development
+
+- 🍭 I'm a "software" themed content producer in social media.
 
 <br>
 
@@ -13,11 +16,6 @@
 <br>
 
 
-- 💜 I’m currently learning iOS Development
-
-- 📩 How to reach me **karahanezgi64@gmail.com**
-
-- 🍭 I'm a "software" themed content producer in social media.
 
 <br>
 
