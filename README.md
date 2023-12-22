@@ -2,9 +2,10 @@
 <h3 align="center"> Computer Engineering Student💅🏻 </h3>
 
 <br>
-- 💜 I’m currently learning iOS Development
 
-- 🍭 I'm a "software" themed content producer in social media.
+💜 I’m currently learning iOS Development
+
+🍭 I'm a "software" themed content producer in social media.
 
 <br>
 
