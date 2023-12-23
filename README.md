@@ -5,7 +5,7 @@
 
 💜 I’m currently learning iOS Development | Swift, UIKit 📱
 
-🍭 I'm a "software" themed content producer in social media.
+🍭 I'm a "software" themed content producer on social media.
 
 <br>
 
