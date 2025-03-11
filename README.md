@@ -7,10 +7,9 @@
 
 🍭 I'm a "software" themed content creator on social media.
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ezgikrhnn&theme=tokyonight-duo&hide_total_contributions=true" alt="GitHub Streak" /></a>
-
-
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=ezgikrhnn&theme=tokyonight-duo">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezgikrhnn&theme=tokyonight-duo" alt="GitHub Streak" />
+</a>
 
 ![A (10)](https://github.com/ezgikrhnn/ezgikrhnn/assets/109277079/f9315162-f920-44d3-85fd-cc39324ea13e)
 
