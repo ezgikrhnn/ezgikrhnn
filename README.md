@@ -3,7 +3,7 @@
 
 
 
-💜 I’m currently learning iOS Development | Swift, UIKit, Programmatic UI 📱
+💜 I’m currently working as an iOS Software Engineer 📱
 
 🍭 I'm a "software" themed content creator on social media.
 
